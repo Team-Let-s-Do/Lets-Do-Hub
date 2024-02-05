@@ -4,9 +4,9 @@
 <h1 align="center" style="line-height:0px;"></h1>
 
 <h1 align="center">Download our mods</h1>
-<p align="center"><img src="./.github/assets/bakery.png?size=50" height="55" />   <img src="./.github/assets/bewery.png?size=50" height="55" />   <img src="./.github/assets/vinery.png?size=50" height="55" /></p>
-<p align="center"><img src="./.github/assets/bloomingnature.png?size=50" height="55" />   <img src="./.github/assets/candlelight.png?size=50" height="55" />   <img src="./.github/assets/meadow.png?size=50" height="55" /></p>
-<p align="center"><img src="./.github/assets/herbalbrews.png?size=50" height="55" />   <img src="./.github/assets/beachparty.png?size=50" height="55" /></p>
+<p align="center"><a href="https://modrinth.com/mod/lets-do-bakery"><img src="./.github/assets/bakery.png?size=50" height="55" /></a>   <a href="https://github.com/Team-Let-s-Do/Brewery"><img src="./.github/assets/bewery.png?size=50" height="55" /></a>   <a href="https://modrinth.com/mod/vinery"><img src="./.github/assets/vinery.png?size=50" height="55" /></p>
+<p align="center"><a href="https://modrinth.com/mod/lets-do-bloomingnature"><img src="./.github/assets/bloomingnature.png?size=50" height="55" /></a>   <a href="https://modrinth.com/mod/lets-do-candlelight"><img src="./.github/assets/candlelight.png?size=50" height="55" /></a>   <a href="https://modrinth.com/mod/lets-do-meadow"><img src="./.github/assets/meadow.png?size=50" height="55" /></a></p>
+<p align="center"><a href="https://modrinth.com/mod/lets-do-herbalbrews"><img src="./.github/assets/herbalbrews.png?size=50" height="55" />   <a href="https://modrinth.com/mod/lets-do-beachparty"><img src="./.github/assets/beachparty.png?size=50" height="55" /></a></p>
 
 <h1 align="center">Be Part of Our Journey</h1>
 <p align="center">
