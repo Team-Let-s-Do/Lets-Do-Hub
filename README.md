@@ -3,6 +3,11 @@
 </p></p> <!-- WHY GITHUB, WHY TWICE!!!-->
 <h1 align="center" style="line-height:0px;"></h1>
 
+<h1 align="center">Download our mods</h1>
+<p align="center"><img src="./.github/assets/bakery.png?size=50" height="55" />   <img src="./.github/assets/bewery.png?size=50" height="55" />   <img src="./.github/assets/vinery.png?size=50" height="55" /></p>
+<p align="center"><img src="./.github/assets/bloomingnature.png?size=50" height="55" />   <img src="./.github/assets/candlelight.png?size=50" height="55" />   <img src="./.github/assets/meadow.png?size=50" height="55" /></p>
+<p align="center"><img src="./.github/assets/herbalbrews.png?size=50" height="55" />   <img src="./.github/assets/beachparty.png?size=50" height="55" /></p>
+
 <h1 align="center">Be Part of Our Journey</h1>
 <p align="center">
     <a title="discord" href="https://discord.gg/Vqu6wYZwdZ">
